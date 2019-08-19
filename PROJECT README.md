@@ -214,5 +214,11 @@ The Final block is for linear layers. It has:
 * Train time: 750 seconds per epoch
 
 ### Future Implementations:
+
 * Usage of less parameters
+
 * Test with different optimizer and loss functions
+
+* Application of Secure & Private AI in this project
+The images collected in this project are carefully chosen to avoid any copyright issues.  For images that contain intellectual property issues or private images, we can consider incorporating federated learning and secure prediction into our classification models. This will allow for training in a private cloud while minimizing the risk of leaking intellectual property or private training data. 
+
